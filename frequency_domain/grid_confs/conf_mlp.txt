@@ -1,0 +1,5 @@
+wide-shallow: 512,512
+wide-deep: 256,256,128,128
+narrow-shallow: 64,64
+narrow-deep: 32,32,32,32
+wide-to-narrow: 128,64,32,16
